@@ -201,9 +201,9 @@
 ## 1.反馈问题：
 补充试题请联系 [deekurforothers@gmail.com](mailto:deekurforothers@gmail.com)，需确保试题来源无误并可靠，其他问题请提issues
 ## 2.文件说明：
-- 全部文件格式均为pdf，已移除所有元数据和密码
+- 全部文件格式均为pdf，已移除所有元数据和水印
 - 小部分文件为docx转换而来，可能会有公式显示不完整的情况，后续会修复
-- 文件命名方式：年份+卷种+文理（+初试）+.pdf
+- 文件命名方式：年份+卷种（+文理）（+初试）+.pdf
 - 批量下载：Code→Download ZIP，详见下图
 ![批量下载教程](https://files.seeusercontent.com/2026/04/08/v3jX/1000085612.jpg)
 
